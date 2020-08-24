@@ -1,24 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="" />
+    <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lexicons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lexicons.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="66760f14-e3ce-4cc2-9a55-b6e3300768be" />
   <component name="ProjectId" id="1f7DmJJqHp6Uanzj1IXqz5uyhhc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -30,13 +40,43 @@
       <option name="presentableId" value="Default" />
       <updated>1595560395194</updated>
       <workItem from="1595560413014" duration="185000" />
+      <workItem from="1598200195661" duration="441000" />
+      <workItem from="1598214483840" duration="1087000" />
+      <workItem from="1598264525671" duration="788000" />
+      <workItem from="1598284131984" duration="547000" />
+      <workItem from="1598284701944" duration="370000" />
+      <workItem from="1598285090187" duration="24000" />
+      <workItem from="1598285351425" duration="3801000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1595560452846">
+    <state width="746" height="213" key="GridCell.Tab.0.bottom" timestamp="1598265313390">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1595560452846" />
+    <state width="746" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598265313390" />
+    <state width="746" height="213" key="GridCell.Tab.0.center" timestamp="1598265313389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598265313389" />
+    <state width="746" height="213" key="GridCell.Tab.0.left" timestamp="1598265313389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598265313389" />
+    <state width="746" height="213" key="GridCell.Tab.0.right" timestamp="1598265313389">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="746" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598265313389" />
+    <state x="277" y="60" key="SettingsEditor" timestamp="1598284659570">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1598284659570" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1598285090470">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1598285090470" />
   </component>
 </project>
