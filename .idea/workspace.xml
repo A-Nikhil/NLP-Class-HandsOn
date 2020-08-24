@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lexicons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lexicons.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpacyDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SpacyDemo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +46,7 @@
       <workItem from="1598284701944" duration="370000" />
       <workItem from="1598285090187" duration="24000" />
       <workItem from="1598285351425" duration="3801000" />
+      <workItem from="1598299116534" duration="3456000" />
     </task>
     <servers />
   </component>
