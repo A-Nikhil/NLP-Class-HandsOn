@@ -3,19 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SpacyDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SpacyDemo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lexicons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lexicons.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="66760f14-e3ce-4cc2-9a55-b6e3300768be" />
+  <component name="JupyterTrust" id="66760f14-e3ce-4cc2-9a55-b6e3300768be">
+    <option name="files">
+      <option value="StemmedAndNotStemmed.ipynb" />
+    </option>
+  </component>
   <component name="ProjectId" id="1f7DmJJqHp6Uanzj1IXqz5uyhhc" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,6 +39,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\nlp-hands-on" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -49,6 +67,9 @@
       <workItem from="1598299116534" duration="3499000" />
       <workItem from="1598452020747" duration="3870000" />
       <workItem from="1598480147999" duration="2240000" />
+      <workItem from="1598527713180" duration="880000" />
+      <workItem from="1598539580510" duration="1306000" />
+      <workItem from="1598559821737" duration="4439000" />
     </task>
     <servers />
   </component>
@@ -56,6 +77,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598562931338">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1598562931338" />
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598539386754">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1598539386754" />
     <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1598482520007">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
