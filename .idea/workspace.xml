@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lexicons.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Lexicons.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpacyDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SpacyDemo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -70,6 +71,7 @@
       <workItem from="1598527713180" duration="880000" />
       <workItem from="1598539580510" duration="1306000" />
       <workItem from="1598559821737" duration="4439000" />
+      <workItem from="1598647086164" duration="5215000" />
     </task>
     <servers />
   </component>
