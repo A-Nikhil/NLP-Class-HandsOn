@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/SpacyDemo-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/SpacyDemo-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpacyDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SpacyDemo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +72,11 @@
       <workItem from="1598527713180" duration="880000" />
       <workItem from="1598539580510" duration="1306000" />
       <workItem from="1598559821737" duration="4439000" />
-      <workItem from="1598647086164" duration="5215000" />
+      <workItem from="1598647086164" duration="5290000" />
+      <workItem from="1598668494785" duration="3990000" />
+      <workItem from="1598731939571" duration="657000" />
+      <workItem from="1598778207323" duration="617000" />
+      <workItem from="1598789243921" duration="604000" />
     </task>
     <servers />
   </component>
@@ -79,30 +84,30 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598562931338">
+    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598653900911">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1598562931338" />
+    <state x="529" y="219" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1598653900911" />
     <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1598539386754">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1598539386754" />
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom" timestamp="1598482520007">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1598789854411">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598482520007" />
-    <state width="1493" height="213" key="GridCell.Tab.0.center" timestamp="1598482520007">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598789854411" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1598789854410">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598482520007" />
-    <state width="1493" height="213" key="GridCell.Tab.0.left" timestamp="1598482520007">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598789854410" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1598789854410">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598482520007" />
-    <state width="1493" height="213" key="GridCell.Tab.0.right" timestamp="1598482520007">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598789854409" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1598789854410">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598482520007" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598789854410" />
     <state x="277" y="60" key="SettingsEditor" timestamp="1598284659570">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
