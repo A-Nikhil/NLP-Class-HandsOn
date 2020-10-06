@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GenderFeatures, VectorFit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/GenderFeatures, VectorFit.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SpacyDemo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/SpacyDemo.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,8 @@
       <workItem from="1598789243921" duration="604000" />
       <workItem from="1600405537838" duration="1134000" />
       <workItem from="1600530635967" duration="78000" />
+      <workItem from="1600530777502" duration="182000" />
+      <workItem from="1602002846926" duration="349000" />
     </task>
     <servers />
   </component>
