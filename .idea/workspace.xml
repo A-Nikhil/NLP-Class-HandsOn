@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="" />
+    <list default="true" id="73dbfab4-374c-41d0-b944-a2b9f838265b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +21,7 @@
   </component>
   <component name="JupyterTrust" id="66760f14-e3ce-4cc2-9a55-b6e3300768be">
     <option name="files">
+      <option value="ClassHandsOn\Chunking.ipynb" />
       <option value="ClassHandsOn\spaCyHandsOn.ipynb" />
       <option value="Others\StemmedAndNotStemmed.ipynb" />
     </option>
@@ -83,7 +86,9 @@
       <workItem from="1600530777502" duration="182000" />
       <workItem from="1602002846926" duration="528000" />
       <workItem from="1602193869111" duration="7000" />
-      <workItem from="1602210368791" duration="3355000" />
+      <workItem from="1602210368791" duration="3559000" />
+      <workItem from="1602815285321" duration="176000" />
+      <workItem from="1602815562559" duration="1841000" />
     </task>
     <servers />
   </component>
@@ -99,22 +104,22 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1600406696436" />
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1598789854411">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom" timestamp="1602214152134">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598789854411" />
-    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1598789854410">
+    <state width="1493" height="211" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1602214152134" />
+    <state width="1493" height="211" key="GridCell.Tab.0.center" timestamp="1602214152133">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598789854410" />
-    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1598789854410">
+    <state width="1493" height="211" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1602214152133" />
+    <state width="1493" height="211" key="GridCell.Tab.0.left" timestamp="1602214152132">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598789854409" />
-    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1598789854410">
+    <state width="1493" height="211" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1602214152132" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right" timestamp="1602214152133">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598789854410" />
+    <state width="1493" height="211" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1602214152133" />
     <state x="277" y="60" key="SettingsEditor" timestamp="1598284659570">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
